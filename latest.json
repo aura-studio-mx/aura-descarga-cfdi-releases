@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/shokvic-alt/aura-descarga-cfdi-releases/releases/latest",
-  "notas": "Versión inicial.",
+  "version": "1.1.0",
+  "url": "https://github.com/shokvic-alt/aura-descarga-cfdi-releases/releases/download/v1.1.0/AuraDescargaCFDI-Setup-1.1.0.exe",
+  "notas": "Visor completo, validaciones SAT, reporte de impuestos y PDF profesional.",
   "obligatoria": false
 }
