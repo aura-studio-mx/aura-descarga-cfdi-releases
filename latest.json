@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/aura-studio-mx/aura-descarga-cfdi-releases/releases/download/v1.1.0/AuraDescargaCFDI-Setup-1.1.0.exe",
-  "notas": "Visor completo, validaciones SAT, reporte de impuestos y PDF profesional.",
+  "version": "1.2.0",
+  "url": "https://github.com/aura-studio-mx/aura-descarga-cfdi-releases/releases/download/v1.2.0/AuraDescargaCFDI-Setup-1.2.0.exe",
+  "notas": "Listas del SAT al día y con fecha, respaldo automático de la base, cierre seguro, descargas que se retoman solas y datos más confiables.",
   "obligatoria": false
 }
