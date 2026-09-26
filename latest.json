@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/aura-studio-mx/aura-descarga-cfdi-releases/releases/download/v1.2.0/AuraDescargaCFDI-Setup-1.2.0.exe",
-  "notas": "Listas del SAT al día y con fecha, respaldo automático de la base, cierre seguro, descargas que se retoman solas y datos más confiables.",
+  "version": "1.2.1",
+  "url": "https://github.com/aura-studio-mx/aura-descarga-cfdi-releases/releases/download/v1.2.1/AuraDescargaCFDI-Setup-1.2.1.exe",
+  "notas": "Actualizar las listas del SAT ya no congela la app; totales e impuestos más claros; las descargas atoradas se cierran solas; pantalla más ordenada.",
   "obligatoria": false
 }
