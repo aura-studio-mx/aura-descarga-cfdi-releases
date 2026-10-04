@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
-  "url": "https://github.com/aura-studio-mx/aura-descarga-cfdi-releases/releases/download/v1.2.4/AuraDescargaCFDI-Setup-1.2.4.exe",
-  "notas": "Opinión 32-D y constancia en el tablero de cada cliente; tablero por cliente; estatus SAT con fecha y fuente en cada exportación. Después de actualizar, vuelve a pedir los meses «Parcial» del tablero.",
+  "version": "1.2.5",
+  "url": "https://github.com/aura-studio-mx/aura-descarga-cfdi-releases/releases/download/v1.2.5/AuraDescargaCFDI-Setup-1.2.5.exe",
+  "notas": "La búsqueda encuentra nombres con o sin acentos; los archivos exportados dicen emitidas o recibidas y los filtros que de verdad se aplicaron; detalles corregidos en el estatus y en la opinión 32-D automática.",
   "obligatoria": false
 }
