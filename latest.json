@@ -1,6 +1,6 @@
 {
-  "version": "1.2.5",
-  "url": "https://github.com/aura-studio-mx/aura-descarga-cfdi-releases/releases/download/v1.2.5/AuraDescargaCFDI-Setup-1.2.5.exe",
-  "notas": "La búsqueda encuentra nombres con o sin acentos; los archivos exportados dicen emitidas o recibidas y los filtros que de verdad se aplicaron; detalles corregidos en el estatus y en la opinión 32-D automática.",
+  "version": "1.2.7",
+  "url": "https://github.com/aura-studio-mx/aura-descarga-cfdi-releases/releases/download/v1.2.7/AuraDescargaCFDI-Setup-1.2.7.exe",
+  "notas": "Si el SAT falla un momento, la opinión 32-D y la constancia se reintentan solas; los botones y las exportaciones dicen «Preparando…» y no se repiten con doble clic; los errores dicen la causa; el PDF del visor se guarda preguntando una sola vez.",
   "obligatoria": false
 }
