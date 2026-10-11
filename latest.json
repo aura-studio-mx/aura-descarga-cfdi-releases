@@ -1,6 +1,6 @@
 {
-  "version": "1.2.10",
-  "url": "https://github.com/aura-studio-mx/aura-descarga-cfdi-releases/releases/download/v1.2.10/AuraDescargaCFDI-Setup-1.2.10.exe",
-  "notas": "Vigila si tus facturas vigentes pasan a canceladas; descargas por año o por mes; una sola pantalla de Clientes; pantallas más claras y ordenadas.",
+  "version": "1.2.12",
+  "url": "https://github.com/aura-studio-mx/aura-descarga-cfdi-releases/releases/download/v1.2.12/AuraDescargaCFDI-Setup-1.2.12.exe",
+  "notas": "Nuevo: Validar RFC con el SAT, el manual de uso dentro de la app (Ayuda) y XML por revisar con «Ver en PDF» y «Volver a leer». Descargas agrupadas por año y mes.",
   "obligatoria": false
 }
